@@ -1,6 +1,7 @@
 .homepage{
-    background-color:#dcedc1;
+    background-size:cover;
     text-align:center;
+    background-image: url("https://github.com/mosmoo/Portfolio/blob/main/Media/Miscellaneous/IMG_5222.JPG?raw=true");
 }
 .header{
     width:50%;
@@ -8,42 +9,45 @@
 
 }
 ul{
-    background:#ffd3b6;
-    padding:10px;
-    text-align:center;
+    background:rgba(255,255,255,0.4);
+   padding:10px;
+   text-align:center;
 }
   a{
-    color:#ff8b94;
+    color:white;
     display:inline;
     padding:10px;
     font-size:20px;
     text-decoration: none;
   }
 a:hover{
-    border: 0.15em solid  #ff8b94 ;
-    background-color:#a8e6cf;
+    border: 0.15em solid white ;
 }
 h1{
     font-family:Impact;
     letter-spacing:1px;
     font-size: 5em;
-    color:#ff8b94;
-    text-shadow: 0.05em 0.05em #ffd3b6;
+    color:white;
+    text-shadow: 0.0em 0.0em 1em gray;
+    margin-top: 1em;
 }
 #bio{
-    color:#97A8FE;
+    color:white;
     font-size:1em;
-    margin-top: -5%;
-    text-shadow: 0.04em 0.03em #ff8b94;
+    margin-top:10em;
+    text-shadow: 0.04em 0.03em 3em white;
     text-transform:uppercase;
 }
+h2{
+    color:white;
+}
 img{
-    border:0.3em solid #ff8b94;
+    border:0.3em solid white;
     
 }
 img:hover{
-    border:0.5em solid #ff8b94;
-    box-shadow: 1em 0.7em #97A8FE;
+    border:0.5em solid white;
+    box-shadow: 0em 0em 0.7em white;
 
 }
 .img_link:hover{
