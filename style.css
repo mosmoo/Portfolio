@@ -46,6 +46,11 @@ h1{
 h2{
     color:white;
 }
+.img_container{
+    max-width: 100%;
+    height:3em;
+    display: inline;
+}
 img{
     border:0.3em solid white;
     
