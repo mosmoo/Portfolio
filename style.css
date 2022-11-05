@@ -1,5 +1,11 @@
 .homepage{
     background-color:#dcedc1;
+    text-align:center;
+}
+.header{
+    width:50%;
+    margin:50px auto;
+
 }
 ul{
     background:#ffd3b6;
@@ -14,6 +20,33 @@ ul{
     text-decoration: none;
   }
 a:hover{
-    border: 2px solid  #ff8b94 ;
+    border: 0.15em solid  #ff8b94 ;
     background-color:#a8e6cf;
+}
+h1{
+    font-family:Impact;
+    letter-spacing:1px;
+    font-size: 5em;
+    color:#ff8b94;
+    text-shadow: 0.05em 0.05em #ffd3b6;
+}
+#bio{
+    color:#97A8FE;
+    font-size:1em;
+    margin-top: -5%;
+    text-shadow: 0.04em 0.03em #ff8b94;
+    text-transform:uppercase;
+}
+img{
+    border:0.3em solid #ff8b94;
+    
+}
+img:hover{
+    border:0.5em solid #ff8b94;
+    box-shadow: 1em 0.7em #97A8FE;
+
+}
+.img_link:hover{
+    border:none !important;
+    background-color:#dcedc1;
 }
