@@ -45,6 +45,9 @@ h1{
 }
 h2{
     color:white;
+    background-color: black;
+    padding:0.4em;
+    margin-top: 3.5em;
 }
 img{
     border:0.3em solid white;
@@ -57,4 +60,24 @@ img:hover{
 }
 .img_link:hover{
     border:none !important;
+}
+.widget{
+    border:0.1em solid white;
+    height:500px;
+    margin-top: 3em;
+
+}
+iframe{
+    width:100%;
+    height:100%;
+}
+.widget_link {
+    padding:10px !important; 
+    color:white !important;
+    margin-top: 20px !important;
+    border:none !important;
+    padding-top: 30px;
+}
+.widget_link:hover{
+    color:lightblue !important;
 }
