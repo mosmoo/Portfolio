@@ -1,0 +1,19 @@
+.homepage{
+    background-color:#dcedc1;
+}
+ul{
+    background:#ffd3b6;
+    padding:10px;
+    text-align:center;
+}
+  a{
+    color:#ff8b94;
+    display:inline;
+    padding:10px;
+    font-size:20px;
+    text-decoration: none;
+  }
+a:hover{
+    border: 2px solid  #ff8b94 ;
+    background-color:#a8e6cf;
+}
